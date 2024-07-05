@@ -27,5 +27,5 @@ npx hardhat run scripts/approvedDeposit.js --network volta
 Parent Chain: Sepolia(ETH)
 Child Chain: Polygon Amoy(MATIC)
 
-Loom Video link for verification: 
+Loom Video link for verification: https://www.loom.com/share/d0457a40109a4f12b40b400e785c8856?sid=6fd112d5-58bf-4c64-b0a1-53b76981efa1
 
