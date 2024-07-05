@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+*.log
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+
+# Environment variables
+.env
+
+# Hardhat config files
+*.tsbuildinfo
+
+# IDE specific files (e.g., VSCode)
+.vscode/
+.idea/
+
+# Mac OS specific files
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# Logs
+*.log
+
+# Miscellaneous
+*.swp
+*.swo
