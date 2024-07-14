@@ -15,11 +15,8 @@ Once the contract is compile run following tasks to generate token, mint nfts an
 #generate token
 npx hardhat run scripts/deploy.js --network sepolia
 
-
-
 #mint nft
 npx hardhat run scripts/batchMint.js --network sepolia
-
 
 #deposit and check balance
 npx hardhat run scripts/approvedDeposit.js --network sepolia
