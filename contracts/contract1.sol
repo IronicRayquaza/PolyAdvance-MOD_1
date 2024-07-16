@@ -15,7 +15,7 @@ contract contract1 is ERC721A {
         "https://gateway.pinata.cloud/ipfs/QmXfEJU9kDprKfxT6evBqPxeCAqGW2Vref9dgv9A2UKs4s/";
 
     // URL for the prompt description
-    string public constant PROMPT = "Nature Images";
+    string public constant PROMPT = "Minecraft Images";
 
     constructor() ERC721A("Contract1", "IR") {
         owner = msg.sender;
